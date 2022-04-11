@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jose.aguilar.miranda@gmail.com
+	name = jose aguilar
